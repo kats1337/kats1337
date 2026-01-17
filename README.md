@@ -14,4 +14,10 @@
 > Focusing on a finnish FiveM-server called HellcityRP.  
 > Mostly using **Lua**, **MySQL** and **TS** (studying).
 
+## 💬 HellcityRP
+
+If you are finnish, and looking for a server to play in:
+
+👉 **[Liity Discordiin](https://discord.gg/INVITE)**
+
 ###
