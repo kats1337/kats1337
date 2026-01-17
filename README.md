@@ -7,4 +7,11 @@
   <img src="https://avatars.githubusercontent.com/u/25160833?s=280&v=4" height="150" alt="cfxre logo" />
 </div>
 
+> ### 📌 Infobox
+> **Age:** 21   
+> **Working on:** **HellcityRP**  
+> **Small desc:**  
+> Focusing on a finnish FiveM-server called HellcityRP.  
+> Mostly using **Lua**, **MySQL** and **TS** (studying).
+
 ###
