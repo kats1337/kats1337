@@ -18,6 +18,6 @@
 
 If you are finnish, and looking for a server to play in:
 
-👉 **[Liity Discordiin](https://discord.gg/INVITE)**
+👉 **[Liity Discordiin](https://discord.gg/hellcityrp)**
 
 ###
